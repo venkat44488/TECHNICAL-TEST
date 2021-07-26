@@ -13,6 +13,9 @@ An example of a 3-tier implementation might be a Java servlet running on the Web
 2.	Curl http:// 169.254.169.254/latest/user-data/ prints userdata.
 3.	Curl http:// 169.254.169.254/latest/metadata/public-ipv4  prints IP address of that instance.
 
+![image](https://user-images.githubusercontent.com/41958306/126992062-7886af70-1497-403f-ba59-1de453bd3b62.png)
+
+
 
 Note: the same command works with OpenStack, AWS,Azure and Google Cloud as well.
 
